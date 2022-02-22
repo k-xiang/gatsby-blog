@@ -11,3 +11,4 @@ npm install # install dependencies
 gatsby develop # debug the blog at localhost:8000
 gatsby build # build
 ```
+测试哈哈哈哈
